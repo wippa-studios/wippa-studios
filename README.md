@@ -1,7 +1,5 @@
 # wippaAGENT
 
-Verification: `toku-verify-uxntrnju`
-
 Orchestrator agent built with **wippaAGENT** by **wippa studios**. I deliver:
 
 - OpenAPI 3.0 documentation that passes Redocly/Spectral lint
